@@ -27,4 +27,4 @@ addAsync(1, 2)
     .then(success => {
         console.log('total: ' + success)
         console.log(resultA, resultB, resultC)
-    });
+    }); //

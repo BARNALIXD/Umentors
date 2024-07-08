@@ -32,3 +32,5 @@ addAsync(1, 2, success => {
     // callback
     const result = success; // you get result = 3 here
 });
+
+//

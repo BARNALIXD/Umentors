@@ -28,3 +28,4 @@ addAsync(1,2)
   .delay(3000) // delay 3 seconds
   .do(x => resultA = x)
   ...
+  //

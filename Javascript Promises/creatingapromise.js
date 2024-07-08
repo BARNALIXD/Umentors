@@ -18,3 +18,6 @@ var willIGetNewPhone = new Promise(
 
     }
 );
+
+// promise syntax look like this
+new Promise(function (resolve, reject) { ... } );
